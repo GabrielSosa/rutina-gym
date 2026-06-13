@@ -28,7 +28,7 @@ const DAYS = [
             ajuste: "Codos a la altura de los hombros al apoyar los antebrazos en los cojines. Peso: 10–20 kg.",
             pasos: ["Siéntate y apoya los antebrazos en los cojines laterales.", "Cierra los brazos hacia el centro como aplaudiendo. Aprieta el pecho al juntar 1 seg.", "Abre lentamente hasta sentir el estiramiento. Controla ese regreso."],
             tip: "El límite al abrir es el estiramiento del pecho, no el dolor en el hombro.",
-            video: "XCFtfAkEWkE", videoTitulo: "Pec Deck — tutorial en español"
+            video: "WtMmRk1SCEM", videoTitulo: "Pec Deck — tutorial en español"
           },
           {
             num: "03", nombre: "Cruce de Cables (Cable Crossover)",
@@ -37,7 +37,7 @@ const DAYS = [
             ajuste: "Poleas en posición alta. Un pie adelantado para equilibrio. Peso: 5–10 kg por lado.",
             pasos: ["Párate en el centro, un pie adelante. Agarra una manija en cada mano, brazos abiertos arriba.", "Con codos ligeramente doblados (fijos), jala los cables hacia abajo y al centro.", "Las manos se juntan frente al abdomen. Aprieta el pecho al juntar.", "Regresa lento abriendo los brazos arriba."],
             tip: "El cuerpo no se mueve. Solo los brazos. Si te inclinas, el peso es mucho.",
-            video: "XCFtfAkEWkE", videoTitulo: "Cruce de cables pecho — tutorial"
+            video: "taI4XduLpTk", videoTitulo: "Cruce de cables pecho — tutorial"
           }
         ]
       },
@@ -61,7 +61,7 @@ const DAYS = [
             ajuste: "Acostado en banco plano. Mancuernas de 6–10 kg. Brazos extendidos arriba al inicio.",
             pasos: ["Acostado, sostén las mancuernas con los brazos extendidos hacia arriba.", "Dobla SOLO los codos bajando las mancuernas hacia la frente. Los codos apuntan al techo, no se abren.", "Extiende los codos de vuelta arriba. Los codos no se mueven de posición."],
             tip: "Peso ligero. Si los codos se abren hacia afuera, el peso es mucho.",
-            video: "7Jc4jHxax60", videoTitulo: "Press francés tríceps — tutorial"
+            video: "Rn6LgSEPsDc", videoTitulo: "Press francés tríceps — tutorial"
           },
           {
             num: "06", nombre: "Fondos en Máquina (Tricep Dip Machine)",
@@ -70,7 +70,7 @@ const DAYS = [
             ajuste: "Asiento para que los codos queden a la altura de los hombros. Peso: 15–25 kg.",
             pasos: ["Siéntate derecho, agarra las manijas con palmas hacia abajo.", "Empuja hacia abajo extendiendo los codos completamente.", "Sube lento de vuelta. No dejes caer el peso.", "Espalda pegada al respaldo en todo momento."],
             tip: "Si no hay esta máquina en tu gym, repite una serie extra del pushdown de polea.",
-            video: "7Jc4jHxax60", videoTitulo: "Fondos tríceps en máquina — tutorial"
+            video: "tnYdPDikMw", videoTitulo: "Fondos tríceps en máquina — tutorial"
           }
         ]
       }
@@ -112,7 +112,7 @@ const DAYS = [
             ajuste: "Agarrador triangular en la polea baja. Sentado con pies en los apoyos. Peso: 20–30 kg.",
             pasos: ["Espalda recta, pecho afuera. Rodillas levemente dobladas.", "Jala el cable hacia el ombligo. Codos pasan cerca de las costillas.", "Aprieta los omóplatos al final. Extiende los brazos lentamente.", "La cintura NO se balancea. Solo brazos y espalda."],
             tip: "El balanceo del torso es trampa — no trabaja nada útil y lesiona la zona lumbar.",
-            video: "Mf9FHzj1xGo", videoTitulo: "Remo en polea baja — tutorial en español"
+            video: "QLzPrh_8I2U", videoTitulo: "Remo en polea baja — tutorial en español"
           }
         ]
       },
@@ -127,7 +127,7 @@ const DAYS = [
             ajuste: "Barra EZ (la curva en zigzag) en polea BAJA. Párate a 40 cm. Peso: 10–20 kg.",
             pasos: ["Agarra la barra EZ, palmas hacia arriba. Codos pegados al cuerpo.", "Dobla los codos subiendo la barra hacia los hombros. Los codos NO se mueven.", "Aprieta el bíceps arriba 1 seg. Baja muy lento (3 seg) — ahí es donde más se define."],
             tip: "La barra EZ cuida las muñecas mejor que la barra recta. Úsala si sientes molestia.",
-            video: "7Jc4jHxax60", videoTitulo: "Curl bíceps en polea — tutorial en español"
+            video: "dmupCYjuXHo", videoTitulo: "Curl bíceps en polea — tutorial en español"
           },
           {
             num: "05", nombre: "Curl Martillo con Mancuernas",
@@ -136,7 +136,7 @@ const DAYS = [
             ajuste: "Mancuernas de 8–12 kg. Palmas mirándose entre sí (posición de martillo) durante todo el movimiento.",
             pasos: ["Párate con mancuernas a los lados, palmas mirándose entre sí.", "Sube una mancuerna doblando el codo. La palma mira adentro todo el recorrido — no gires la muñeca.", "Aprieta arriba, baja lento. Alterna brazos."],
             tip: "La diferencia vs curl normal es solo la posición de la mano. Ambos trabajados = mejor definición.",
-            video: "7Jc4jHxax60", videoTitulo: "Curl martillo mancuernas — tutorial en español"
+            video: "j99intoPKGE", videoTitulo: "Curl martillo mancuernas — tutorial en español"
           },
           {
             num: "06", nombre: "Curl en Máquina de Bíceps",
@@ -145,7 +145,7 @@ const DAYS = [
             ajuste: "Codos apoyados en el cojín a la altura de los hombros. Agarre supino (palmas arriba). Peso: 10–20 kg.",
             pasos: ["Siéntate, codos sobre el cojín. Agarra las manijas con palmas hacia arriba.", "Dobla los codos subiendo hasta casi tocar los hombros. Aprieta el bíceps arriba.", "Baja muy lento (3 seg). No dejes caer el peso — ese descenso controlado define el músculo."],
             tip: "Esta máquina es perfecta para aislar el bíceps porque el cojín evita que los codos se muevan.",
-            video: "7Jc4jHxax60", videoTitulo: "Curl en máquina bíceps — tutorial"
+            video: "sQQ7m6I65po", videoTitulo: "Curl en máquina bíceps — tutorial"
           }
         ]
       }
